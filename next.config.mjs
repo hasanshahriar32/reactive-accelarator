@@ -1,7 +1,7 @@
 import nextra from "nextra";
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "/reactive-accelarator",
+    basePath: "/reactive-accilarator",
     output: "export",
     reactStrictMode: true,
     images: {
