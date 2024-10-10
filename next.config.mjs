@@ -4,6 +4,9 @@ const nextConfig = {
     basePath: "/reactive-accelarator",
     output: "export",
     reactStrictMode: true,
+    images: {
+    unoptimized: true,
+  },
 };
 const withNextra = nextra({
     theme: "nextra-theme-docs",
