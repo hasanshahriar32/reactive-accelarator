@@ -28,9 +28,6 @@ jobs:
       - name: Build
         run: pnpm run build
         
-      - name: Create Output Directory
-        run: mkdir -p ./out
-        
       - name: Create .nojekyll
         run: touch ./out/.nojekyll
         
