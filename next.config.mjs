@@ -6,7 +6,7 @@ import {
 import nextra from "nextra";
 /** @type {import('next').NextConfig} */
 const config = {
-    basePath: "/reactive-accilarator",
+    basePath: "/reactive-accelarator",
     output: "export",
     reactStrictMode: true,
     images: {
