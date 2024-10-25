@@ -5,7 +5,14 @@ import {
 
 import nextra from "nextra";
 /** @type {import('next').NextConfig} */
-const config = {};
+const config = {
+    basePath: "/reactive-accilarator",
+    output: "export",
+    reactStrictMode: true,
+    images: {
+    unoptimized: true,
+  },
+};
 const withNextra = nextra({
   theme: "nextra-theme-docs",
   themeConfig: "./theme.config.jsx",
