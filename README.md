@@ -1,4 +1,5 @@
 # Reactive Accilarator
+[![pages-build-deployment](https://github.com/hasanshahriar32/reactive-accelarator/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/hasanshahriar32/reactive-accelarator/actions/workflows/pages/pages-build-deployment)
 
 **This is documantation project to make document my learing from Reactive Accilarator Course from [LWS-Learn With Sumt](https://learnwithsumt.com) Created with [NextJS](http://nextjs.org)**
 
